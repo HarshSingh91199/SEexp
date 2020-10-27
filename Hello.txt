@@ -1,5 +1,6 @@
 For Testing Only
-To create clone on local system
+To create a local(clone) repository of
+
 1. git init
        |
 2. git config --global user.name "HarshSingh91199"
@@ -7,3 +8,21 @@ To create clone on local system
 3. git config --global user.email "singhharsh91199@gmail.com"
        |
 4.git clone https://github.com/HarshSingh91199/SEexp.git
+
+To add file to local(clone) repository
+
+create file(Hello.txt) in local(clone) Repository
+       |
+1. git add Hello.txt(filename.extention)
+       |
+2. git commit -m "Hello.txt"
+
+To add file to remote repository
+
+1. git remote add origin https://github.com/HarshSingh91199/SEexp.git
+	|
+2. git push origin master
+	|
+3. sign in
+	|
+4.File Added
