@@ -1,0 +1,9 @@
+For Testing Only
+To create clone on local system
+1. git init
+       |
+2. git config --global user.name "HarshSingh91199"
+       |
+3. git config --global user.email "singhharsh91199@gmail.com"
+       |
+4.git clone https://github.com/HarshSingh91199/SEexp.git
