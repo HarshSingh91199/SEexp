@@ -26,3 +26,5 @@ To add file to remote repository
 3. sign in
 	|
 4.File Added
+
+This is updated by Admin on github
